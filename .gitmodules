@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "vascr"]
-	path = vascr
-	url = https://github.com/jameshucklesby/vascr
 [submodule "vmeasur"]
 	path = vmeasur
 	url = https://github.com/jameshucklesby/vmeasur
